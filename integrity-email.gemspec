@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name              = 'integrity-email'
-  s.version           = '1.0.1'
+  s.version           = '1.0.2'
   s.date              = '2008-11-16'
   s.summary           = 'Email notifier for the Integrity continuous integration server'
   s.description       = 'Easily let Integrity send emails after each build'
